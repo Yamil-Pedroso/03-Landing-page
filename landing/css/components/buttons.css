@@ -1,0 +1,14 @@
+.btn-enter {
+    padding: 20px 60px;
+    background-color: #3a2713;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 50px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-enter:hover {
+    background-color: #8e6215;
+}
